@@ -1,0 +1,49 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 40px 150px 40px;
+     
+}
+body{
+    background-image: url(img/Chuck.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 0px; 
+}
+a{
+    font-style: normal;
+    font-family: Impact;
+    font-size: 100%;
+    color: black;
+}
+a:hover{
+    color: rgb(42, 65, 165);
+}
+#box{  
+    margin: 200px 550px;
+    background-color: black;
+    padding: 40px;
+    opacity: 85%;
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    color: azure;
+}
+#bouton{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+button:hover{
+    color: rgb(42, 65, 165);
+    background-color: yellow;
+
+
+}    
+
